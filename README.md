@@ -6,6 +6,7 @@ With the rise of digital communication, a growing number of users are expressing
 To identify which Python library performs the best in detecting and translating Hinglish text.
 
 **Methodology**:
+
 Language detection with open-source libraries:
 1. langid
 2. langdetect
