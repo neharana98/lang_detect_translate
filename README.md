@@ -1,4 +1,4 @@
-# lang_detect_translate
+# Language Detection and Translation
 **Overview**:
 With the rise of digital communication, a growing number of users are expressing themselves in Hindi (and other Indian languages), using the Roman script. This hybrid form of language, referred to as “Hinglish”, blends Hindi and English — phonetically written using the Roman script, with no standard spellings! While users prefer Hinglish for its ease, it presents a challenge for analysts, especially in language detection and translation.
 
